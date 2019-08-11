@@ -7,6 +7,7 @@
 ∙ Import all six CSV files into the corresponding SQL tables.<br>
 ∙ Import SQL database into Pandas for further analysis and plotting of average salaries.<br>
 
+--------------------------------------------------
 
 ### Background
 
