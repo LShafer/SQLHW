@@ -16,7 +16,7 @@ It is a beautiful spring day, and it is two weeks since you have been hired as a
 In this assignment, you will design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. In other words, you will perform:
 
 #### Data Modeling
-∙ Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like http://www.quickdatabasediagrams.com.
+∙ Inspect the CSVs and sketch out an ERD of the tables, using the tool at: http://www.quickdatabasediagrams.com.
 
 #### Data Engineering
 ∙ Use the information you have to create a table schema for each of the six CSV files. <br>
@@ -50,6 +50,7 @@ Evidence in hand, you march into your boss's office and present the visualizatio
 ### Programs Used
 ∙ PostgresQL<br>
 ∙ Jupyter Notebook<br>
+∙ quickdatabasediagrams.com<br>
 
 ### Author
 Lindsey Shafer
