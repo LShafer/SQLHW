@@ -43,6 +43,8 @@ As you examine the data, you are overcome with a creeping suspicion that the dat
 ∙ Create a bar chart of average salary by title.<br>
 ∙ You may also include a technical report in markdown format, in which you outline the data engineering steps taken in the homework assignment.<br>
 
+<img src="https://github.com/LShafer/SQLHW/blob/master/avg_salary.png"><br>
+
 #### Epilogue
 
 Evidence in hand, you march into your boss's office and present the visualization. With a sly grin, your boss thanks you for your work. On your way out of the office, you hear the words, "Search your ID number." You look down at your badge to see that your employee ID number is 499942.
